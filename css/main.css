@@ -10,13 +10,13 @@ header{
 
 }
 aside{
-	width: 30%;
+	width: 20%;
 	background-color: lightgreen;
 	height: 500px;
 	float: left;
 }
 section{
-	width: 70%;
+	width: 80%;
 	height: 500px;
 	background-color: green;
 	float: left;
